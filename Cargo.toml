@@ -4,7 +4,6 @@ version = "0.1.0"
 authors = ["Luís Rodrigues Soares <luis@luisonthekeyboard.com>"]
 edition = "2018"
 license = "Apache-2.0"
-license-file = "LICENSE"
 description = "A Commons Library based on learning from The Rust Programming Language (TRPL) Book"
 homepage = "https://github.com/luisonthekeyboard/trpl_commons"
 documentation = "https://github.com/luisonthekeyboard/trpl_commons"
